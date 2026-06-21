@@ -1,0 +1,31 @@
+# Task 2 - UI/UX Design and Implementation
+
+## Objective
+Convert wireframes and mockups into Android layouts and implement UI components.
+
+## Activities Completed
+- Studied UI/UX principles and design best practices.
+- Created wireframes and mockups using Figma.
+- Converted wireframes into XML layouts.
+- Implemented basic UI components:
+  - Buttons
+  - Text Fields
+  - Navigation Menu
+- Applied custom styles and themes.
+- Built responsive layouts for multiple screen sizes.
+
+## Tools Used
+- Android Studio
+- XML
+- Java
+- Figma
+
+## Features Implemented
+- Login Screen UI
+- Home Screen UI
+- Dashboard Screen UI
+- Material Design Components
+- Responsive Design
+
+## Output
+Successfully integrated UI design into Android application.
