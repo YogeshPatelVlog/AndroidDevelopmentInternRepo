@@ -1,0 +1,25 @@
+// This is the text version of Json code if we can run in emulator we can change or replace the whole code values
+
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "task3-backend-demo",
+    "storage_bucket": "task3-backend-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef123456",
+        "android_client_info": {
+          "package_name": "com.example.task3"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyXXXXXXXXXXXXXXX"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
